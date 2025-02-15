@@ -74,5 +74,4 @@
 
 # ⬇️ 图书下载（施工中🚧）
 
-- [A Report Of The Banality Of Evil by Hannah Arendt.epub](https://github.com/ReadingWitches/ReadingWitches.github.io/blob/main/Books/A%20Report%20Of%20The%20Banality%20Of%20Evil%20by%20Hannah%20Arendt.epub)
-- 
+- [A Report Of The Banality Of Evil by Hannah Arendt.epub](https://github.com/ReadingWitches/ReadingWitches.github.io/raw/refs/heads/main/Books/A%20Report%20Of%20The%20Banality%20Of%20Evil%20by%20Hannah%20Arendt.epub)
