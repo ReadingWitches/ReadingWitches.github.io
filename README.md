@@ -1,12 +1,16 @@
-# Recommendations
+### 🧙‍♀️📚 欢迎来到阅读搭子（女巫版）的主页！
 
-## Links
+# ✨群友推荐
+
+### Links
 - 朱迪斯·巴特勒的性别构建理论（概括版）：https://book.douban.com/review/5267199/
 - zlib https://z-library.sk/
 - 鸠摩搜书 https://www.jiumodiary.com/
 - 古书：https://www.shuge.org/
-  
-## Books
+
+---
+
+### Books
 - 泡饭：[《破碎的星球》](https://book.douban.com/subject/27605897/)
   
 - D-503：
@@ -47,11 +51,15 @@
 - Dolce far niente：[《鲛在水中央》](https://book.douban.com/subject/33406036/)
 
 - Bear：[《服美役》](https://book.douban.com/subject/36698279/)
-  
-## Standups
+
+---
+
+### Standups
 
 - Plastic Love：姐妹们，这个是我喜欢+推荐的一些female comedian名字，除了个别人我不太确定，但绝大多数在网上都可以找到她们的专场~ Whitney Cummings, Nikki Glaser, Jiaoying（梁娇颖），Taylor Tomlinson, Margaret Cho, Atsuko Okatsuka, Ali Wong, Katherine Ryan, Sarah Silverman, Fortune Feimster, Hannah Gadsby, Iliza Shlesinger, Michelle Wolf
 - 香山：Hanah Gatsby，Daniel Sloss
+
+---
 
 ## Movies
 - Plastic Love：歇斯底里Hysterical（2021）
@@ -63,3 +71,8 @@
   - [《阴道独白》](https://movie.douban.com/subject/1761025/)
 
 - pomelo：[《神佑之地》](https://www.bilibili.com/video/BV1DGHQeGEcK/?vd_source=090cdb8a8bd43566cddcb20b6191590b)
+
+# ⬇️ 图书下载（施工中🚧）
+
+- [A Report Of The Banality Of Evil by Hannah Arendt.epub](https://github.com/ReadingWitches/ReadingWitches.github.io/blob/main/Books/A%20Report%20Of%20The%20Banality%20Of%20Evil%20by%20Hannah%20Arendt.epub)
+- 
