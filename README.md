@@ -75,3 +75,5 @@
 # ⬇️ 图书下载（施工中🚧）
 
 - [A Report Of The Banality Of Evil by Hannah Arendt.epub](https://github.com/ReadingWitches/ReadingWitches.github.io/raw/refs/heads/main/Books/A%20Report%20Of%20The%20Banality%20Of%20Evil%20by%20Hannah%20Arendt.epub)
+- [Caliban and the Witch Women, the Body and Primitive Accumulation - epub](https://github.com/ReadingWitches/ReadingWitches.github.io/raw/refs/heads/main/Books/Caliban%20and%20the%20Witch%20Women,%20the%20Body%20and%20Primitive%20Accumulation.epub)
+- [Caliban and the Witch Women, the Body and Primitive Accumulation - pdf](https://github.com/ReadingWitches/ReadingWitches.github.io/raw/refs/heads/main/Books/Caliban%20and%20the%20Witch%20Women,%20the%20Body%20and%20Primitive%20Accumulation.pdf)
