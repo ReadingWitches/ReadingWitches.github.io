@@ -1,16 +1,26 @@
 ### 🧙‍♀️📚 欢迎来到阅读搭子（女巫版）的主页！
 
-# ✨群友推荐
+ 
+[✨ 群友推荐书影音](#item-one)
 
-### Links
-- 朱迪斯·巴特勒的性别构建理论（概括版）：https://book.douban.com/review/5267199/
-- zlib https://z-library.sk/
-- 鸠摩搜书 https://www.jiumodiary.com/
-- 古书：https://www.shuge.org/
+[⬇️ 图书下载（施工中🚧）](#item-two)
+
+[📒 讨论会笔记](#item-three)
 
 ---
 
-### Books
+<a id="item-one"></a>
+# ✨群友推荐
+
+### 实用链接 🔗 
+- 朱迪斯·巴特勒的性别构建理论（概括版）：https://book.douban.com/review/5267199/
+- zlib：[https://z-library.sk/](https://z-library.sk/)
+- 鸠摩搜书: [https://www.jiumodiary.com/](https://www.jiumodiary.com/)
+- 古书：[https://www.shuge.org/](https://www.shuge.org/)
+
+
+### 书籍
+
 - 泡饭：[《破碎的星球》](https://book.douban.com/subject/27605897/)
   
 - D-503：
@@ -72,8 +82,21 @@
 
 - pomelo：[《神佑之地》](https://www.bilibili.com/video/BV1DGHQeGEcK/?vd_source=090cdb8a8bd43566cddcb20b6191590b)
 
+<a id="item-two"></a>
 # ⬇️ 图书下载（施工中🚧）
+
+> 图书下载板块提供的内容仅用于个人学习、研究或欣赏。我们不保证内容的正确性。通过使用本站内容随之而来的风险与本站无关。访问者可将本网站提供的内容或服务用于个人学习、研究或欣赏，以及其他非商业性或非盈利性用途，但同时应遵守著作权法及其他相关法律的规定，不得侵犯本网站及相关权利人的合法权利。图书作者或出版商如不愿意在本网站刊登内容，请及时通知本站，予以删除。
 
 - [A Report Of The Banality Of Evil by Hannah Arendt.epub](https://github.com/ReadingWitches/ReadingWitches.github.io/raw/refs/heads/main/Books/A%20Report%20Of%20The%20Banality%20Of%20Evil%20by%20Hannah%20Arendt.epub)
 - [Caliban and the Witch Women, the Body and Primitive Accumulation - epub](https://github.com/ReadingWitches/ReadingWitches.github.io/raw/refs/heads/main/Books/Caliban%20and%20the%20Witch%20Women,%20the%20Body%20and%20Primitive%20Accumulation.epub)
 - [Caliban and the Witch Women, the Body and Primitive Accumulation - pdf](https://github.com/ReadingWitches/ReadingWitches.github.io/raw/refs/heads/main/Books/Caliban%20and%20the%20Witch%20Women,%20the%20Body%20and%20Primitive%20Accumulation.pdf)
+
+<a id="item-three"></a>
+# 📒 讨论会笔记
+
+- [超越身体边界1](Disucussions/1.md)
+- [乙游](Disucussions/2.md)
+- []()
+- []()
+
+
