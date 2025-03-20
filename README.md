@@ -94,9 +94,9 @@
 <a id="item-three"></a>
 # 📒 讨论会笔记
 
-- [超越身体边界1](Disucussions/1.md)
-- [乙游](Disucussions/2.md)
-- []()
-- []()
+- [超越身体边界1](https://github.com/ReadingWitches/ReadingWitches.github.io/blob/main/Discussions/1.md)
+- [乙游](https://github.com/ReadingWitches/ReadingWitches.github.io/blob/main/Discussions/2.md)
+- [超越身体边界2](https://github.com/ReadingWitches/ReadingWitches.github.io/blob/main/Discussions/3.md)
+- [凯列班与女巫1](https://github.com/ReadingWitches/ReadingWitches.github.io/blob/main/Discussions/5.md)
 
 
